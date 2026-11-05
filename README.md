@@ -45,6 +45,4 @@ Chacon, S., & Straub, B. (2014). *Pro Git* (2nd ed.). Apress. https://git-scm.co
 
 ## Autora
 
-trabajo realizado de manera individual
-
 Trabajo realizado de manera individual.
